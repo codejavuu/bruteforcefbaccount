@@ -8,7 +8,7 @@ Bruteforce facebook target account
 
 
 ```bash
-  git clone github.com/codejavuu/Bruteforcefbaccount
+  git clone github.com/codejavuu/bruteforcefbaccount
   cd Bruteforcefbaccount
   python3 darkfb.py
 ```
