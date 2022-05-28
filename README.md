@@ -5,7 +5,7 @@ Bruteforce facebook target account
 
 ## Installation
 
-Install my-project with npm
+
 
 ```bash
   git clone github.com/codejavuu/Bruteforcefbaccount
